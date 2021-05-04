@@ -1,0 +1,7 @@
+{
+  "name": "ion-toolbar-sample",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

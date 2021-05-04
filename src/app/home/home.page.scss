@@ -1,0 +1,28 @@
+:host {
+  ion-toolbar {
+    --min-height: 34px;
+    --background: #fcfcfc;
+    --border-width: 1px;
+    --border-color: #f4f4f4;
+    --border-style: solid;
+
+    ion-title {
+      font-size: 15px;
+      font-weight: 400;
+      color: #373B40;
+      padding-left: 8px;
+      padding-right: 8px;
+      text-align: left;
+    }
+
+    ion-buttons {
+      ion-button {
+        ion-icon {
+          color: #ff5a5a;
+        }
+      }
+    }
+
+  }
+
+}
